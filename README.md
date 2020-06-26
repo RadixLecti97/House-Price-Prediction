@@ -1,5 +1,5 @@
 # House-Price-Prediction
-Kaggle Python Modelling Challenge to Predict House Prices  
+Predicting House Prices on Favorable (and Unfavorable) Variables - Kaggle Competition
 
 The competition link can be found at: [Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
